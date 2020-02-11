@@ -12,7 +12,7 @@ html {
 /* desktop style */
 
 body {
-  font-family: sans-serif;
+  font-family: 'Lato', sans-serif;
   margin: auto;
   background-color: black;
   color: white;
@@ -138,20 +138,27 @@ body {
 }
 
 .mobile #mobileMenu {
-  display: block;
+  display: flex;
   position: fixed;
   right: 20px;
   top: 65px;
   /* background: white; */
-  width: 20px;
-  height: 20px;
+  width: 30px;
+  height: 30px;
   cursor: pointer;
   z-index: 2;
+  justify-content: center;
+  align-items: center;
+}
+
+.mobile #mobileMenu > svg {
+  width: 20px;
+  height: 20px;
 }
 
 .mobile #logoVertical {
-  height: 100%;
-  max-width: calc(100% - 40px);
+  /* height: 100%; */
+  max-width: calc(100% - 46px);
   margin: 0 auto;
 }
 
@@ -200,7 +207,7 @@ body {
   width: 100%;
   text-align: center;
   position: static;
-  padding-bottom: 12.5px;
+  padding: 12.5px 0;
 }
 
 .mobile .section .content {
