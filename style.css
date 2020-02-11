@@ -1,15 +1,33 @@
+/* normalize css */
+
+html {
+  box-sizing: border-box;
+  line-height: 1.2;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+/* desktop style */
+
 body {
   font-family: sans-serif;
   margin: auto;
-  padding: 0 20px;
   background-color: black;
   color: white;
+  min-width: 100%;
 }
 
 .main, .navbar {
   max-width: 1200px;
   width: 100vw;
   margin: auto;
+  padding: 0 20px;
+}
+
+#mobileMenu {
+  display: none;
 }
 
 .navbar {
@@ -19,6 +37,11 @@ body {
   font-size: 17.5px;
   letter-spacing: 0.2px;
   font-weight: 100;
+}
+
+.navbar .content {
+  white-space: nowrap;
+  overflow: hidden;
 }
 
 .navbar #toggleLanguage {
@@ -92,7 +115,6 @@ body {
   padding-top: 45px;
   font-size: 15px;
   font-weight: 100;
-  line-height: 18px;
   color: rgba(255, 255, 255, .9);
   overflow: auto;
 }
@@ -105,3 +127,84 @@ body {
   display: none;
 }
 
+
+/* mobile style */
+
+.mobile .main {
+  flex-direction: column;
+  padding: 0;
+  margin: 0;
+  padding-top: 27px;
+}
+
+.mobile #mobileMenu {
+  display: block;
+  position: fixed;
+  right: 20px;
+  top: 65px;
+  /* background: white; */
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
+  z-index: 2;
+}
+
+.mobile #logoVertical {
+  height: 100%;
+  max-width: calc(100% - 40px);
+  margin: 0 auto;
+}
+
+.mobile #logoHorizontal {
+  width: calc(100% - 114px);
+  margin: 0 auto;
+  margin-top: 30px;
+}
+
+.mobile .sections {
+  flex-direction: column;
+  width: 100%;
+  justify-content: unset;
+  margin-top: 30px;
+}
+
+.mobile .section {
+  border-right: none;
+  border-left: none !important;
+  border-bottom: 2px solid white;
+  width: 100%;
+  height: auto;
+  flex-direction: column;
+}
+
+.mobile #logoHorizontal:not(.hidden) +.sections .section:first-child {
+  border-top: 2px solid white;
+}
+
+.mobile .section:not(.closed) {
+  position: fixed;
+  background: black;
+  top: 56px;
+  padding-top: 64px;
+  bottom: 0;
+  border: none !important;
+}
+
+.mobile .section:not(.closed) .title {
+  border-bottom: 1px solid white;
+}
+
+.mobile .section .title {
+  transform: none;
+  display: block;
+  width: 100%;
+  text-align: center;
+  position: static;
+  padding-bottom: 12.5px;
+}
+
+.mobile .section .content {
+  width: 100%;
+  padding: 30px;
+  font-size: 18px;
+}

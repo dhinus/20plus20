@@ -39,6 +39,13 @@ let userLanguage = navigator.language.slice(0, 2) === 'pt' ? 'pt' : 'en';
 
 document.getElementById('toggleLanguage').addEventListener('click', toggleLanguage);
 
+document.getElementById('mobileMenu').addEventListener('click', onMobileMenuClick);
+
+function isMobile() {
+  const md = new MobileDetect(window.navigator.userAgent);
+  return md.mobile() !== null;
+}
+
 const formatText = (text) => {
   return `<span>${text.replace(/\n/g, '<br/>')}</span>`;
 }
@@ -56,18 +63,28 @@ function toggleLanguage() {
   populateTexts(userLanguage);
 }
 
-function openSection(sectionId) {
-  // close every section
+function closeSections() {
   document.querySelectorAll('.section:not(.closed)').forEach(element => {
     element.className = `${element.className} closed`;
   });
+}
+
+function openSection(sectionId) {
+  // close every section
+  closeSections();
 
   // open clicked section
   document.getElementById(sectionId).className = document.getElementById(sectionId).className.replace('closed', '').trim();
 
-  // close logo
-  document.getElementById('logoHorizontal').className = 'hidden';
-  document.getElementById('logoVertical').className = '';
+  // invert logo
+  if (isMobile()) {
+    // change menu icon
+    document.getElementById('icon-times').setAttribute('class', 'hidden');
+    document.getElementById('icon-bars').setAttribute('class', '');
+  } else {
+    document.getElementById('logoHorizontal').className = 'hidden';
+    document.getElementById('logoVertical').className = '';
+  }
 }
 
 function openWhatIs20plus20() {
@@ -80,7 +97,49 @@ function openInfoTickets() {
   openSection('infoTickets');
 }
 
+function onMobileMenuClick() {
+  if (document.getElementById('icon-bars').className.baseVal === 'hidden') {
+    // reset
+    initializeMobile();
+  } else {
+    // logo
+    document.getElementById('logoHorizontal').className = '';
+    document.getElementById('logoVertical').className = 'hidden';
+
+    // close every section
+    closeSections();
+
+    // show sections
+    document.getElementById('sections').className = document.getElementById('sections').className.replace('hidden', '').trim();
+
+    // set "x" icon
+    document.getElementById('icon-times').setAttribute('class', '');
+    document.getElementById('icon-bars').setAttribute('class', 'hidden');
+  }
+}
+
+function initializeMobile() {
+  document.body.className = 'mobile';
+
+  // menu
+  document.getElementById('icon-times').setAttribute('class', 'hidden');
+  document.getElementById('icon-bars').setAttribute('class', '');
+
+  // logo
+  document.getElementById('logoHorizontal').className = 'hidden';
+  document.getElementById('logoVertical').className = '';
+
+  // close every section
+  closeSections();
+
+  // hide sections
+  document.getElementById('sections').className = `${document.getElementById('sections').className} hidden`;
+}
+
 function main() {
+  if (isMobile()) {
+    initializeMobile();
+  }
   populateTexts(userLanguage);
 }
 
