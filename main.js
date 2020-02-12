@@ -25,8 +25,12 @@ const texts = {
     pt: 'soldisoldi'
   },
   navBarMessage: {
-    en: 'Saturday 21st March +++ Auditório CCOP +++ A small, unique music event +++ Giardini di mirò +++ Other artists to be announced',
-    pt: 'Saturday 21st March +++ Auditório CCOP +++ A small, unique music event +++ Giardini di mirò +++ Other artists to be announced'
+    en: 'Saturday 21st March    +++    Auditório CCOP    +++    A small, unique music event    +++    Giardini di mirò    +++    Other artists to be announced    +++    ',
+    pt: 'Saturday 21st March    +++    Auditório CCOP    +++    A small, unique music event    +++    Giardini di mirò    +++    Other artists to be announced    +++    '
+  },
+  navBarMessage2: {
+    en: 'Saturday 21st March    +++    Auditório CCOP    +++    A small, unique music event    +++    Giardini di mirò    +++    Other artists to be announced    +++    ',
+    pt: 'Saturday 21st March    +++    Auditório CCOP    +++    A small, unique music event    +++    Giardini di mirò    +++    Other artists to be announced    +++    '
   },
   toggleLanguage: {
     en: '[en/port]',
