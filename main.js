@@ -5,36 +5,36 @@ const texts = {
     pt: 'INFO & TIMETABLE'
   },
   whatIs20plus20Description: {
-    en: `A small, unique music event, uniting artists and people from Italy, Portugal and elsewhere.\n\nProudly independent and DIY, by music fans for music fans. A new start (for a new decade). A different night for different times.`,
-    pt: `Um evento musical pequeno e único, unindo artistas e pessoas da Itália, Portugal e outros lugares.\n\nOrgulhosamente independente e DIY, por fãs de música para fãs de música. Um novo começo (para uma nova década). Uma noite diferente para tempos diferentes`
+    en: `A small, unique music event, uniting artists and people from Italy, Portugal and elsewhere.\n\nProudly independent and DIY, by music fans for music fans. A new start (for a new decade). A different night for different times.\n\nTIMETABLE\n\nDoors: 19:00\nStart: 20:00\n\nStage times TBA`,
+    pt: `Um evento musical pequeno e único, unindo artistas e pessoas da Itália, Portugal e outros lugares.\n\nOrgulhosamente independente e DIY, por fãs de música para fãs de música. Um novo começo (para uma nova década). Uma noite diferente para tempos diferentes.\n\nTIMETABLE\n\nPortas: 19:00\nInício: 20:00\n\nStage times TBA`
   },
   lineUpTitle: {
     en: `ARTISTS`,
     pt: `ARTISTS`
   },
   lineUpDescription: {
-    en: `Giardini di Mirò (Italy) — Twenty years of career, more than a thousand concerts all over the world, Giardini di Mirò are a reference name in the Italian independent scene since the early 2000s. Their sound is a mix of psychedelia, post rock, electronic music, shoegaze, noise.\n\nMore artists to be announced`,
-    pt: `Giardini di Mirò (Itália) - Vinte anos de carreira, mais de mil shows em todo o mundo, Giardini di Mirò são um nome de referência no cenário independente italiano desde o início dos anos 2000. O som deles é uma mistura de psicodelia, pós-rock, música eletrônica, shoegaze, ruído.\n\nMAIS ARTISTAS A SEREM ANUNCIADOS ...`
+    en: `<a href="https://www.facebook.com/giardinidimiro/">Giardini di Mirò</a> (Italy) — Twenty years of career, more than a thousand concerts all over the world, Giardini di Mirò are a reference name in the Italian independent scene since the early 2000s. Their sound is a mix of psychedelia, post rock, electronic music, shoegaze, noise.\n\nMore artists to be announced`,
+    pt: `<a href="https://www.facebook.com/giardinidimiro/">Giardini di Mirò</a> (Itália) - Vinte anos de carreira, mais de mil shows em todo o mundo, Giardini di Mirò são um nome de referência no cenário independente italiano desde o início dos anos 2000. O som deles é uma mistura de psicodelia, pós-rock, música eletrônica, shoegaze, ruído.\n\nMais artistas a serem anunciados`
   },
   infoTicketsTitle: {
     en: `TICKETS & LOCATION`,
     pt: `TICKETS & LOCATION`
   },
   infoTicketsDescription: {
-    en: 'soldisoldi',
-    pt: 'soldisoldi'
+    en: 'Auditório CCOP\nRua do Duque de Loulé 202\n4000-324 Porto, Portugal\n\n\nTickets: €10 -- <a href="https://www.bol.pt/Comprar/Bilhetes/85980-20_20_fest-auditorio_ccop/">bol.pt</a>',
+    pt: 'Auditório CCOP\nRua do Duque de Loulé 202\n4000-324 Porto, Portugal\n\n\n',
   },
   navBarMessage: {
-    en: 'Saturday 21st March    +++    Auditório CCOP    +++    A small, unique music event    +++    Giardini di mirò    +++    Other artists to be announced    +++    ',
-    pt: 'Saturday 21st March    +++    Auditório CCOP    +++    A small, unique music event    +++    Giardini di mirò    +++    Other artists to be announced    +++    '
+    en: 'Saturday 21st March    +++    Auditório CCOP    +++    A small, unique music event    +++    Giardini di Mirò    +++    More artists to be announced    +++    ',
+    pt: 'Sábado 21 Março    +++    Auditório CCOP    +++    Um evento musical pequeno e único    +++    Giardini di Mirò    +++     Mais artistas a serem anunciados   +++    '
   },
   navBarMessage2: {
-    en: 'Saturday 21st March    +++    Auditório CCOP    +++    A small, unique music event    +++    Giardini di mirò    +++    Other artists to be announced    +++    ',
-    pt: 'Saturday 21st March    +++    Auditório CCOP    +++    A small, unique music event    +++    Giardini di mirò    +++    Other artists to be announced    +++    '
+    en: 'Saturday 21st March    +++    Auditório CCOP    +++    A small, unique music event    +++    Giardini di Mirò    +++    More artists to be announced    +++    ',
+    pt: 'Sábado 21 Março    +++    Auditório CCOP    +++    Um evento musical pequeno e único    +++    Giardini di Mirò    +++     Mais artistas a serem anunciados   +++    '
   },
   toggleLanguage: {
-    en: '[en/port]',
-    pt: '[en/port]'
+    en: '[en/pt]',
+    pt: '[en/pt]'
   }
 }
 

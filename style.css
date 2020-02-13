@@ -133,6 +133,10 @@ body {
   overflow: auto;
 }
 
+.section .content a {
+  color: rgba(255, 255, 255, .9);
+}
+
 .section.closed .content {
   display: none;
 }
