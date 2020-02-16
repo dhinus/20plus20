@@ -141,6 +141,18 @@ body {
   color: rgba(255, 255, 255, .9);
 }
 
+.section .content img {
+  width: 100%;
+}
+
+.section .content img.small {
+  width: 50%;
+}
+
+.section .content img.social {
+  width: 32px;
+}
+
 .section.closed .content {
   display: none;
 }
