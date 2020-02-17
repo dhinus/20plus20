@@ -22,6 +22,8 @@ Proudly independent and DIY, by music fans for music fans. A new start (for a ne
 Doors: 19:00
 Start: 20:00
 Stage times TBA
+
+
 `,
     pt: `<strong>O QUE É 20+20 FEST</strong>
 
@@ -38,6 +40,8 @@ Orgulhosamente independente e DIY, por fãs de música para fãs de música. Um 
 Portas: 19:00
 Início: 20:00
 Stage times TBA
+
+
 `
   },
   lineUpTitle: {
@@ -106,6 +110,7 @@ Rua do Duque de Loulé 202
 
 <a href="https://goo.gl/maps/S3XLcHbnCjubvDTg6"><img src="img/gmaps.png"/></a>
 
+
 `,
     pt: `<strong>BILHETES</strong>
 
@@ -123,6 +128,8 @@ Rua do Duque de Loulé 202
 4000-324 Porto, Portugal
 
 <a href="https://goo.gl/maps/S3XLcHbnCjubvDTg6"><img src="img/gmaps.png"/></a>
+
+
 `,
   },
   navBarMessage: {
@@ -249,5 +256,3 @@ function main() {
 }
 
 main();
-
-
