@@ -153,6 +153,21 @@ document.getElementById('toggleLanguage').addEventListener('click', toggleLangua
 
 document.getElementById('mobileMenu').addEventListener('click', onMobileMenuClick);
 
+document.querySelectorAll('.logo').forEach(el => {
+  el.addEventListener('click', onLogoClick);
+});
+
+function onLogoClick() {
+  console.log('logo');
+  if (isMobile()) {
+    initializeMobile();
+  } else {
+    closeSections();
+    document.getElementById('logoVertical').className = 'hidden';
+    document.getElementById('logoHorizontal').className = '';
+  }
+}
+
 function isMobile() {
   const md = new MobileDetect(window.navigator.userAgent);
   return md.mobile() !== null;
@@ -188,6 +203,8 @@ function openSection(sectionId) {
   // open clicked section
   document.getElementById(sectionId).className = document.getElementById(sectionId).className.replace('closed', '').trim();
 
+  window.openSectionId = sectionId;
+
   // invert logo
   if (isMobile()) {
     // change menu icon
@@ -211,8 +228,12 @@ function openInfoTickets() {
 
 function onMobileMenuClick() {
   if (document.getElementById('icon-bars').className.baseVal === 'hidden') {
-    // reset
-    initializeMobile();
+    // go back to last open section, if present
+    if (window.openSectionId) {
+      openSection(window.openSectionId);
+    } else {
+      initializeMobile();
+    }
   } else {
     // logo
     document.getElementById('logoHorizontal').className = '';
@@ -222,7 +243,7 @@ function onMobileMenuClick() {
     closeSections();
 
     // show sections
-    document.getElementById('sections').className = document.getElementById('sections').className.replace('hidden', '').trim();
+    document.getElementById('sections').className = document.getElementById('sections').className.replace(/hidden/g, '').trim();
 
     // set "x" icon
     document.getElementById('icon-times').setAttribute('class', '');
@@ -232,6 +253,8 @@ function onMobileMenuClick() {
 
 function initializeMobile() {
   document.body.className = 'mobile';
+
+  window.openSectionId = null;
 
   // menu
   document.getElementById('icon-times').setAttribute('class', 'hidden');

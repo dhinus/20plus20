@@ -75,8 +75,8 @@ body {
   height: calc(100% - 56px);
 }
 
-
 #logoVertical {
+  cursor: pointer;
   width: 400px;
   margin-left: 65px;
 }
