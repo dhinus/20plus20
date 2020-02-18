@@ -55,6 +55,8 @@ Stage times TBA
 
 Twenty years of career, more than a thousand concerts all over the world, Giardini di Mirò are a reference name in the Italian independent scene since the early 2000s. Their sound is a mix of psychedelia, post rock, electronic music, shoegaze, noise.
 
+<iframe src="https://open.spotify.com/embed/album/6Nu91SKkm3c3mtm6YLVBfo" width="280" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
 <hr>
 
 <strong><a href="https://www.facebook.com/littlefriendsongs/">LITTLE FRIEND</a> (UK / Portugal)</strong>
@@ -62,6 +64,8 @@ Twenty years of career, more than a thousand concerts all over the world, Giardi
 <img src="img/little_friend.jpg"/>
 
 Little Friend is the alter ego of John Almeida, an English-born musician and writer based in Porto, Portugal. Having in previous years played and fronted punk and rock-influenced bands, he chose to give a different direction to Little Friend’s sound, focusing on influences that encompass a wide array of musical sources, from 60s and 70s folk and singer-songwriter pop, to film soundtracks and country.
+
+<iframe src="https://open.spotify.com/embed/album/3JqP1EcErBg4LnB60nL3BB" width="280" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 <hr>
 
@@ -75,11 +79,18 @@ Little Friend is the alter ego of John Almeida, an English-born musician and wri
 
 Vinte anos de carreira, mais de mil shows em todo o mundo, Giardini di Mirò são um nome de referência no cenário independente italiano desde o início dos anos 2000. O som deles é uma mistura de psicodelia, pós-rock, música eletrônica, shoegaze, ruído.
 
+<iframe src="https://open.spotify.com/embed/album/6Nu91SKkm3c3mtm6YLVBfo" width="280" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
 <hr>
 
 <strong><a href="https://www.facebook.com/littlefriendsongs/">LITTLE FRIEND</a> (UK / Portugal)</strong>
 
 <img src="img/little_friend.jpg"/>
+
+Little Friend é o projecto de John Almeida, um músico e escritor inglês de ascendência portuguesa, baseado no Porto. Depois de vários anos envolvido em projectos criativos na sua cidade natal de Londres, e de uma passagem por Vancouver, para estudar Guionismo na Vancouver Film School, regressou a Portugal, onde cresceu, e começou a dar forma aos Little Friend.
+A música dos Little Friend tem influências que vão desde o folk ao indie, sendo que estas não limitam o seu som. A composição melódica e as letras introspectivas desempenham um papel muito importante no seu trabalho.
+
+<iframe src="https://open.spotify.com/embed/album/3JqP1EcErBg4LnB60nL3BB" width="280" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 <hr>
 
