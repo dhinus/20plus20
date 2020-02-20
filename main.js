@@ -164,12 +164,12 @@ Rua do Duque de Loulé 202
 `,
   },
   navBarMessage: {
-    en: 'Saturday 21 March 2020    +++    Auditório CCOP    +++    A small, unique music event    +++    Giardini di Mirò    +++    Little Friend    +++    More artists to be announced    +++    ',
-    pt: 'Sábado 21 Março 2020    +++    Auditório CCOP    +++    Um evento musical pequeno e único    +++    Giardini di Mirò    +++    Little Friend    +++    Mais artistas a serem anunciados   +++    '
+    en: 'Saturday 21 March 2020    +++    Auditório CCOP    +++    A small, unique music event    +++    Giardini di Mirò    +++    Labaq    +++    Little Friend    +++    More artists to be announced    +++    ',
+    pt: 'Sábado 21 Março 2020    +++    Auditório CCOP    +++    Um evento musical pequeno e único    +++    Giardini di Mirò    +++    Labaq    +++    Little Friend    +++    Mais artistas a serem anunciados   +++    '
   },
   navBarMessage2: {
-    en: 'Saturday 21 March 2020    +++    Auditório CCOP    +++    A small, unique music event    +++    Giardini di Mirò    +++    Little Friend    +++    More artists to be announced    +++    ',
-    pt: 'Sábado 21 Março 2020    +++    Auditório CCOP    +++    Um evento musical pequeno e único    +++    Giardini di Mirò    +++    Little Friend    +++    Mais artistas a serem anunciados   +++    '
+    en: 'Saturday 21 March 2020    +++    Auditório CCOP    +++    A small, unique music event    +++    Giardini di Mirò    +++    Labaq    +++    Little Friend    +++    More artists to be announced    +++    ',
+    pt: 'Sábado 21 Março 2020    +++    Auditório CCOP    +++    Um evento musical pequeno e único    +++    Giardini di Mirò    +++    Labaq    +++    Little Friend    +++    Mais artistas a serem anunciados   +++    '
   },
   toggleLanguage: {
     en: '[en/pt]',
