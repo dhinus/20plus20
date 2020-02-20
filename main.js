@@ -59,6 +59,16 @@ Twenty years of career, more than a thousand concerts all over the world, Giardi
 
 <hr>
 
+<strong><a href="https://www.facebook.com/LaBaqMusic/">LABAQ</a> (Brazil / Italy)</strong>
+
+<img src="img/labaq.jpg"/>
+
+There are intimacies that pass over the flesh, like a translucent laser that directly touches the bone. Labaq achieves that effect with her songs: she is and is not, at the same time, singer-songwriter, indietronic icon, nova-bossa-nova, pop explorer, a songwriter as close to indie-folk as to r&b. In any case, the paulista is a celebrated artist that moves by a fine line of many things, to get to be herself.
+
+<iframe src="https://open.spotify.com/embed/album/47zxoaS3B8wEcN87eXIYn0" width="280" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+<hr>
+
 <strong><a href="https://www.facebook.com/littlefriendsongs/">LITTLE FRIEND</a> (UK / Portugal)</strong>
 
 <img src="img/little_friend.jpg"/>
@@ -80,6 +90,16 @@ Little Friend is the alter ego of John Almeida, an English-born musician and wri
 Vinte anos de carreira, mais de mil shows em todo o mundo, Giardini di Mirò são um nome de referência no cenário independente italiano desde o início dos anos 2000. O som deles é uma mistura de psicodelia, pós-rock, música eletrônica, shoegaze, ruído.
 
 <iframe src="https://open.spotify.com/embed/album/6Nu91SKkm3c3mtm6YLVBfo" width="280" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+<hr>
+
+<strong><a href="https://www.facebook.com/LaBaqMusic/">LABAQ</a> (Brasil / Itália)</strong>
+
+<img src="img/labaq.jpg"/>
+
+Existem intimidades que passam por cima da carne, como um laser translúcido que toca diretamenteo osso. Labaq consegue esse efeito com suas canções: é e não é, ao mesmo tempo, cantautora, ícone do pop alternativo, exploradora pop, uma compositora tão perto do indie-folk como dos sons eletrônicos. Em todo caso, a paulista tem um talento que se move por uma linha fina de muitas coisas para conseguir ser ela mesma.
+
+<iframe src="https://open.spotify.com/embed/album/47zxoaS3B8wEcN87eXIYn0" width="280" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 <hr>
 
