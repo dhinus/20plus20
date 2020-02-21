@@ -59,6 +59,16 @@ Twenty years of career, more than a thousand concerts all over the world, Giardi
 
 <hr>
 
+<strong><a href="https://www.facebook.com/whalespt/">WHALES</a> (Portugal)</strong>
+
+<img src="img/whales.jpg"/>
+
+Whales started by winning one of the biggest band contests in Portugal “Festival Termómetro” as well as releasing their first single “Big Pulse Waves” who allowed them to play in festivals such as NOS Alive and Festival Bons Sons. In 2018 they released their debut album “Whales” from which they released singles such as “Ghost” that was nominated for low budget category in Berlin Music Video Awards and “Twerp” which debuted on the British Clash Magazine. With this album they toured around 7 countries all around Europe.
+
+<iframe src="https://open.spotify.com/embed/album/3PIohVfFBiPwziZYrSOsRv" width="280" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+<hr>
+
 <strong><a href="https://www.facebook.com/LaBaqMusic/">LABAQ</a> (Brazil / Italy)</strong>
 
 <img src="img/labaq.jpg"/>
@@ -90,6 +100,16 @@ Little Friend is the alter ego of John Almeida, an English-born musician and wri
 Vinte anos de carreira, mais de mil shows em todo o mundo, Giardini di Mirò são um nome de referência no cenário independente italiano desde o início dos anos 2000. O som deles é uma mistura de psicodelia, pós-rock, música eletrônica, shoegaze, ruído.
 
 <iframe src="https://open.spotify.com/embed/album/6Nu91SKkm3c3mtm6YLVBfo" width="280" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+<hr>
+
+<strong><a href="https://www.facebook.com/whalespt/">WHALES</a> (Portugal)</strong>
+
+<img src="img/whales.jpg"/>
+
+Começaram por vencer o festival termómetro em 2016, seguido do lançamentodo seu primeiro single “Big Pulse Waves”, com o qual pisaram palcos de festivais como o NOS Alive e o Festival Bons Sons. Em 2018 lançam o seu primeiro álbum “Whales”, do qual saíram singles como “Ghost”, nomeado para categoria Low Budget do Berlin Music Video Awards e “Twerp” que estreou na revista online britânica Clash Magazine. Com este álbum percorreram cerca de 7 países por toda a Europa.
+
+<iframe src="https://open.spotify.com/embed/album/3PIohVfFBiPwziZYrSOsRv" width="280" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 <hr>
 
@@ -164,12 +184,12 @@ Rua do Duque de Loulé 202
 `,
   },
   navBarMessage: {
-    en: 'Saturday 21 March 2020    +++    Auditório CCOP    +++    A small, unique music event    +++    Giardini di Mirò    +++    Labaq    +++    Little Friend    +++    More artists to be announced    +++    ',
-    pt: 'Sábado 21 Março 2020    +++    Auditório CCOP    +++    Um evento musical pequeno e único    +++    Giardini di Mirò    +++    Labaq    +++    Little Friend    +++    Mais artistas a serem anunciados   +++    '
+    en: 'Saturday 21 March 2020    +++    Auditório CCOP    +++    A small, unique music event    +++    Giardini di Mirò    +++    Whales    +++    Labaq    +++    Little Friend    +++    More artists to be announced    +++    ',
+    pt: 'Sábado 21 Março 2020    +++    Auditório CCOP    +++    Um evento musical pequeno e único    +++    Giardini di Mirò    +++    Whales    +++    Labaq    +++    Little Friend    +++    Mais artistas a serem anunciados   +++    '
   },
   navBarMessage2: {
-    en: 'Saturday 21 March 2020    +++    Auditório CCOP    +++    A small, unique music event    +++    Giardini di Mirò    +++    Labaq    +++    Little Friend    +++    More artists to be announced    +++    ',
-    pt: 'Sábado 21 Março 2020    +++    Auditório CCOP    +++    Um evento musical pequeno e único    +++    Giardini di Mirò    +++    Labaq    +++    Little Friend    +++    Mais artistas a serem anunciados   +++    '
+    en: 'Saturday 21 March 2020    +++    Auditório CCOP    +++    A small, unique music event    +++    Giardini di Mirò    +++    Whales    +++    Labaq    +++    Little Friend    +++    More artists to be announced    +++    ',
+    pt: 'Sábado 21 Março 2020    +++    Auditório CCOP    +++    Um evento musical pequeno e único    +++    Giardini di Mirò    +++    Whales    +++    Labaq    +++    Little Friend    +++    Mais artistas a serem anunciados   +++    '
   },
   toggleLanguage: {
     en: '[en/pt]',
