@@ -87,9 +87,6 @@ Little Friend is the alter ego of John Almeida, an English-born musician and wri
 
 <iframe src="https://open.spotify.com/embed/album/3JqP1EcErBg4LnB60nL3BB" width="280" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-<hr>
-
-<strong>MORE ARTISTS TO BE ANNOUNCED</strong>
 
 
     `,
@@ -132,9 +129,6 @@ A música dos Little Friend tem influências que vão desde o folk ao indie, sen
 
 <iframe src="https://open.spotify.com/embed/album/3JqP1EcErBg4LnB60nL3BB" width="280" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-<hr>
-
-<strong>MAIS ARTISTAS A SEREM ANUNCIADOS</strong>
 
 
 `
@@ -184,12 +178,12 @@ Rua do Duque de Loulé 202
 `,
   },
   navBarMessage: {
-    en: 'Saturday 21 March 2020    +++    Auditório CCOP    +++    A small, unique music event    +++    Giardini di Mirò    +++    Whales    +++    Labaq    +++    Little Friend    +++    More artists to be announced    +++    ',
-    pt: 'Sábado 21 Março 2020    +++    Auditório CCOP    +++    Um evento musical pequeno e único    +++    Giardini di Mirò    +++    Whales    +++    Labaq    +++    Little Friend    +++    Mais artistas a serem anunciados   +++    '
+    en: 'Saturday 21 March 2020    +++    Auditório CCOP    +++    A small, unique music event    +++    Giardini di Mirò    +++    Whales    +++    Labaq    +++    Little Friend    +++    ',
+    pt: 'Sábado 21 Março 2020    +++    Auditório CCOP    +++    Um evento musical pequeno e único    +++    Giardini di Mirò    +++    Whales    +++    Labaq    +++    Little Friend    +++    '
   },
   navBarMessage2: {
-    en: 'Saturday 21 March 2020    +++    Auditório CCOP    +++    A small, unique music event    +++    Giardini di Mirò    +++    Whales    +++    Labaq    +++    Little Friend    +++    More artists to be announced    +++    ',
-    pt: 'Sábado 21 Março 2020    +++    Auditório CCOP    +++    Um evento musical pequeno e único    +++    Giardini di Mirò    +++    Whales    +++    Labaq    +++    Little Friend    +++    Mais artistas a serem anunciados   +++    '
+    en: 'Saturday 21 March 2020    +++    Auditório CCOP    +++    A small, unique music event    +++    Giardini di Mirò    +++    Whales    +++    Labaq    +++    Little Friend    +++    ',
+    pt: 'Sábado 21 Março 2020    +++    Auditório CCOP    +++    Um evento musical pequeno e único    +++    Giardini di Mirò    +++    Whales    +++    Labaq    +++    Little Friend    +++    '
   },
   toggleLanguage: {
     en: '[en/pt]',
