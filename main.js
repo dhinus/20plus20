@@ -5,7 +5,9 @@ const texts = {
     pt: 'INFO & HORÁRIOS'
   },
   whatIs20plus20Description: {
-    en: `<strong>WHAT IS 20+20 FEST?</strong>
+    en: `DUE TO THE COVID-19 EPIDEMIC AND TRAVEL RESTRICTIONS IN ITALY, 20+20 FEST IS POSTPONED. A NEW DATE WILL BE ANNOUNCED IN A FEW WEEKS. ALL TICKETS WILL BE REFUNDED.
+
+    <strong>WHAT IS 20+20 FEST?</strong>
 
 A small, unique music event, uniting artists and people from Italy, Portugal and elsewhere.
 
@@ -16,16 +18,10 @@ Proudly independent and DIY, by music fans for music fans. A new start (for a ne
 
 <a href="https://www.facebook.com/20plus20/"><img class="social" src="img/fb.png" alt="Facebook"/></a> &nbsp;&nbsp;&nbsp; <a href="https://www.instagram.com/20plus20_fest/"><img class="social" src="img/ig.png" alt="Instagram"/></a>
 
-
-<strong>TIMETABLE</strong>
-
-Doors: 19:00
-Start: 20:00
-Stage times TBA
-
-
 `,
-    pt: `<strong>O QUE É 20+20 FEST</strong>
+    pt: `DEVIDO À EPIDEMIA DE COVID-19 E ÀS RESTRIÇÕES DE VIAGEM IMPOSTAS EM ITÁLIA, O 20-20 FEST FOI ADIADO. ANUNCIAREMOS UMA NOVA DATA DENTRO DE ALGUMAS SEMANAS. TODOS OS BILHETES SERÃO REEMBOLSADOS.
+
+<strong>O QUE É 20+20 FEST</strong>
 
 Um evento musical pequeno e único, unindo artistas e pessoas da Itália, Portugal e outros lugares.
 
@@ -34,13 +30,6 @@ Orgulhosamente independente e DIY, por fãs de música para fãs de música. Um 
 <strong>LINKS</strong>
 
 <a href="https://www.facebook.com/20plus20/"><img class="social" src="img/fb.png" alt="Facebook"/></a> &nbsp;&nbsp;&nbsp; <a href="https://www.instagram.com/20plus20_fest/"><img class="social" src="img/ig.png" alt="Instagram"/></a>
-
-<strong>HORÁRIOS</strong>
-
-Portas: 19:00
-Início: 20:00
-Stage times TBA
-
 
 `
   },
@@ -140,9 +129,9 @@ A música dos Little Friend tem influências que vão desde o folk ao indie, sen
   infoTicketsDescription: {
     en: `<strong>TICKETS</strong>
 
-€10
+DUE TO THE COVID-19 EPIDEMIC AND TRAVEL RESTRICTIONS IN ITALY, 20+20 FEST IS POSTPONED. A NEW DATE WILL BE ANNOUNCED IN A FEW WEEKS.
 
-<a href="https://www.bol.pt/Comprar/Bilhetes/85980-20_20_fest-auditorio_ccop/"><img class="small" src="img/bol.png"/></a>
+ALL TICKETS WILL BE REFUNDED.
 
 <hr>
 
@@ -159,9 +148,9 @@ Rua do Duque de Loulé 202
 `,
     pt: `<strong>BILHETES</strong>
 
-€10
+DEVIDO À EPIDEMIA DE COVID-19 E ÀS RESTRIÇÕES DE VIAGEM IMPOSTAS EM ITÁLIA, O 20-20 FEST FOI ADIADO. ANUNCIAREMOS UMA NOVA DATA DENTRO DE ALGUMAS SEMANAS.
 
-<a href="https://www.bol.pt/Comprar/Bilhetes/85980-20_20_fest-auditorio_ccop/"><img class="small" src="img/bol.png"/></a>
+TODOS OS BILHETES SERÃO REEMBOLSADOS.
 
 <hr>
 
@@ -178,12 +167,12 @@ Rua do Duque de Loulé 202
 `,
   },
   navBarMessage: {
-    en: 'Saturday 21 March 2020    +++    Auditório CCOP    +++    A small, unique music event    +++    Giardini di Mirò    +++    Whales    +++    Labaq    +++    Little Friend    +++    ',
-    pt: 'Sábado 21 Março 2020    +++    Auditório CCOP    +++    Um evento musical pequeno e único    +++    Giardini di Mirò    +++    Whales    +++    Labaq    +++    Little Friend    +++    '
+    en: '    +++    DUE TO THE COVID-19 EPIDEMIC AND TRAVEL RESTRICTIONS IN ITALY, 20+20 FEST IS POSTPONED.    +++    A NEW DATE WILL BE ANNOUNCED IN A FEW WEEKS.    +++    ALL TICKETS WILL BE REFUNDED.    +++    ',
+    pt: '    +++    DEVIDO À EPIDEMIA DE COVID-19 E ÀS RESTRIÇÕES DE VIAGEM IMPOSTAS EM ITÁLIA, O 20-20 FEST FOI ADIADO.    +++     ANUNCIAREMOS UMA NOVA DATA DENTRO DE ALGUMAS SEMANAS.    +++     TODOS OS BILHETES SERÃO REEMBOLSADOS.    +++    '
   },
   navBarMessage2: {
-    en: 'Saturday 21 March 2020    +++    Auditório CCOP    +++    A small, unique music event    +++    Giardini di Mirò    +++    Whales    +++    Labaq    +++    Little Friend    +++    ',
-    pt: 'Sábado 21 Março 2020    +++    Auditório CCOP    +++    Um evento musical pequeno e único    +++    Giardini di Mirò    +++    Whales    +++    Labaq    +++    Little Friend    +++    '
+    en: 'DUE TO THE COVID-19 EPIDEMIC AND TRAVEL RESTRICTIONS IN ITALY, 20+20 FEST IS POSTPONED. A NEW DATE WILL BE ANNOUNCED IN A FEW WEEKS. ALL TICKETS WILL BE REFUNDED.',
+    pt: 'DEVIDO À EPIDEMIA DE COVID-19 E ÀS RESTRIÇÕES DE VIAGEM IMPOSTAS EM ITÁLIA, O 20-20 FEST FOI ADIADO. ANUNCIAREMOS UMA NOVA DATA DENTRO DE ALGUMAS SEMANAS. TODOS OS BILHETES SERÃO REEMBOLSADOS.'
   },
   toggleLanguage: {
     en: '[en/pt]',
